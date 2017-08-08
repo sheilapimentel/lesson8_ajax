@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+August 8, 2017
 
 ### Student Name:  
-(First and Last Name)
+Sheila Pimentel
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Lesson 8 introduces AJAX, which allows application developers to interact with server-side data without pausing script execution or forcing the page to reload. This allows developers to build solid and fast web applications.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://sheilapimentel.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. JSON is a language-independent data format that was derived from JavaScript. It is a very common data format used for asynchronous browser/server communication.
+2. AJAX allows web applications to send and retrieve data from a server asynchronously without interfering with the display and behavior of the existing web page.
+3. XMLHttpRequest objext used HTTP to exchange data between a client computer and a web server. It can be used to request and receive data without reloading a web page.
